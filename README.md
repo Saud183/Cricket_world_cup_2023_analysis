@@ -71,8 +71,3 @@ Some key insights revealed through the analysis:
 - Interactive dashboards with **Streamlit/Power BI**.
 - Deeper **bowling and fielding** analysis.
 
-## 📢 Connect with Me
-For any queries or collaboration, feel free to connect:
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/shivanshu2407/)
-
-🚀 **Hope you find this analysis insightful!** Feel free to ⭐ the repository if you like it!
